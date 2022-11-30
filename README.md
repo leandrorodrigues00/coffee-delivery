@@ -21,7 +21,7 @@
  
  Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
-[click here, see closer](coffee-delivery-cs.vercel.app/) 😉
+[click here, see closer](https://coffee-delivery-cs.vercel.app/) 😉
 
 ## 🔖 Layout
 
