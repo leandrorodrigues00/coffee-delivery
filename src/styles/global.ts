@@ -38,4 +38,17 @@ input::-webkit-inner-spin-button {
     -moz-appearance: textfield;
   }
 
+  
+  ::-webkit-scrollbar {
+    height: 0.4rem;              
+    width: 0.4rem;
+  }
+  ::-webkit-scrollbar-track {
+    background: ${({ theme }) => theme.colors["base-button"]}
+  }
+  ::-webkit-scrollbar-thumb {
+    border-radius: 2rem;
+    background: ${({ theme }) => theme.colors["brand-purple"]}
+  }
+
 `;
