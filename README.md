@@ -11,15 +11,15 @@
 
 <p align="center">
  
-<kbd>
-<img alt="project preview" src="" width="90%" style="border-radius:50%" ></kbd>
+ 
+<img alt="project preview" src="./public/desktop-preview.png" width="50%" > 
 </p>
 
 ## 👩‍💻 About the project
- 
- Site for buying coffees, where you go through the phase of adding the product to the cart, choosing the address and confirming the order!
- 
- Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
+
+Site for buying coffees, where you go through the phase of adding the product to the cart, choosing the address and confirming the order!
+
+Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
 [click here, see closer](https://coffee-delivery-cs.vercel.app/) 😉
 
@@ -27,7 +27,7 @@
 
 You can view the project layout through the links below:
 
-- [Layout in Figma](https://www.figma.com/file/5aI3PhpxXL68RRIUThGngS/Coffee-Delivery-(Copy))
+- [Layout in Figma](<https://www.figma.com/file/5aI3PhpxXL68RRIUThGngS/Coffee-Delivery-(Copy)>)
 
 > Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
@@ -76,4 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   Made with 💜&nbsp; by  Leandro Rodrigues
 </p>
-
