@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About the project
 
-Site for buying coffees, where you go through the phase of adding the product to the cart, choosing the address and confirming the order!
+Website for buying coffee, where you go through the stages of adding the product to the shopping cart, selecting the address and confirming the order!
 
 Project built during [Rocketseat](https://rocketseat.com.br/) ReactJS course, where I was able to deepen my knowledge of this front-end library
 
