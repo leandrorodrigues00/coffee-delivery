@@ -1,4 +1,4 @@
-# Coffe Delivery - Buy your delicious coffee ☕
+# Coffee Delivery - Buy your delicious coffee ☕
 
 <br><br>
 
